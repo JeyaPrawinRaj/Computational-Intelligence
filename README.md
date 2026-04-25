@@ -1,48 +1,169 @@
 # 🤖 Computation Intelligence Lab
 
-This repository contains implementations of **Computation Intelligence Lab exercises**, focusing on search algorithms, machine learning techniques, and intelligent problem-solving methods.
+This repository contains implementations of Computation Intelligence (CI) Lab experiments. It covers search algorithms, machine learning techniques, neural networks, probabilistic reasoning, and basic AI programming concepts.
 
 ---
 
-## 📘 Exercises Included
+## 📘 Experiments Overview
 
-### 🔹 Exercise 1: Uninformed Search Algorithms
+### 🔹 EX1 – Uninformed Search Algorithms
 
 * Breadth First Search (BFS)
 * Depth First Search (DFS)
 * Uniform Cost Search (UCS)
 
+**Concepts:**
+
+* State space search
+* Blind search techniques
+* Queue and stack operations
+
 ---
 
-### 🔹 Exercise 2: Informed Search Algorithms
+### 🔹 EX2 – Informed Search Algorithms
 
 * Greedy Best First Search
 * A* (A-Star) Algorithm
-* Heuristic-based search techniques
+
+**Concepts:**
+
+* Heuristic functions
+* Optimal path finding
+* Cost + heuristic evaluation
 
 ---
 
-### 🔹 Exercise 3: K-Nearest Neighbors (KNN)
+### 🔹 EX3 – K-Nearest Neighbors (KNN)
 
-* Distance calculation (Euclidean)
+* Euclidean distance calculation
 * Classification using KNN
 * Accuracy evaluation
 
----
+**Concepts:**
 
-### 🔹 Exercise 4: Decision Tree
-
-* Building a decision tree model
-* Splitting criteria (Entropy / Information Gain)
-* Classification using decision trees
+* Supervised learning
+* Distance-based classification
 
 ---
 
-### 🔹 Exercise 5: Wumpus World Problem
+### 🔹 EX4 – Decision Tree
+
+* Decision tree model building
+* Entropy and Information Gain
+* Classification
+
+**Concepts:**
+
+* Tree-based learning
+* Feature selection
+
+---
+
+### 🔹 EX5 – Wumpus World Problem
 
 * Knowledge-based agent
 * Logical reasoning
-* Environment representation and decision making
+* Environment modeling
+
+**Concepts:**
+
+* AI agents
+* Rule-based decision making
+
+---
+
+### 🔹 EX6 – Logic (Propositional & First Order Logic)
+
+* Knowledge representation
+* CNF conversion
+* Basic inference
+
+**Concepts:**
+
+* Predicate logic
+* Unification
+* Logical reasoning
+
+---
+
+### 🔹 EX7 – Random Forest Classifier
+
+* Data preprocessing
+* Handling missing values
+* Feature encoding
+
+**Features:**
+
+* Train-test split
+* K-Fold Cross Validation
+* Performance metrics:
+
+  * Accuracy
+  * Precision
+  * Recall
+  * F1 Score
+
+**Concepts:**
+
+* Ensemble learning
+* Classification models
+
+---
+
+### 🔹 EX8 – Single Layer Perceptron
+
+* Perceptron learning algorithm
+* Activation functions:
+
+  * Threshold
+  * Sigmoid
+  * Tanh
+
+**Features:**
+
+* Weight update mechanism
+* Bias adjustment
+* Multi-epoch training
+
+**Concepts:**
+
+* Neural networks
+* Linear classification
+
+---
+
+### 🔹 EX9 – Probabilistic Reasoning
+
+* Basic probability computation
+* Conditional probability
+* Bayes theorem
+
+**Features:**
+
+* Coin probability problems
+* Joint probability tables
+
+**Concepts:**
+
+* Uncertainty handling
+* Bayesian inference
+
+---
+
+### 🔹 EX10 – LISP Programs
+
+Programs implemented:
+
+* Area of Circle
+* Factorial
+* Fibonacci
+* Palindrome Check
+
+**Concepts:**
+
+* Functional programming
+* Recursion
+* Symbolic processing
 
 ---
 
@@ -50,23 +171,29 @@ This repository contains implementations of **Computation Intelligence Lab exerc
 
 * Python
 * NumPy
-* Matplotlib
-
+* (Optional) Matplotlib
+* LISP
 ---
 
-## 🎯 Objective
+## 🎯 Objectives
 
-* To understand search algorithms (uninformed & informed)
-* To implement machine learning techniques
-* To develop intelligent agents and decision-making systems
+* Understand search algorithms (uninformed & informed)
+* Implement machine learning models
+* Learn neural networks fundamentals
+* Apply probabilistic reasoning techniques
+* Explore AI problem-solving environments
 
 ---
 
 ## 📊 Learning Outcomes
 
-* Understanding of search strategies and heuristics
-* Ability to implement KNN and decision tree models
-* Knowledge of AI problem-solving environments (Wumpus World)
-* Improved programming and analytical skills
+* Strong understanding of search strategies and heuristics
+* Ability to build ML models (KNN, Decision Tree, Random Forest)
+* Knowledge of neural networks (Perceptron)
+* Understanding of probability and Bayes theorem
+* Exposure to LISP programming for AI
+* Improved analytical and problem-solving skills
 
 ---
+
+

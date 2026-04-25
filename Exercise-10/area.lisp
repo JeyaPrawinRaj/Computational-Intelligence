@@ -1,0 +1,6 @@
+(defun AreaOfCircle()
+  (princ "Enter Radius: ")
+  (setq radius (read))
+  (setq area (* 3.1416 radius radius))
+  (format t "Radius = ~F Area = ~F" radius area)
+)
